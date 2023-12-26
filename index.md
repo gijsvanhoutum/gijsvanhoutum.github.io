@@ -29,26 +29,39 @@ not. All code related to work is confidential, therefore I am not able to share 
 
 Have fun!
 
-## Portfolio
+## Software Projects
 
 ---
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+[(2023) TBD: Semi-Supervised Video Object Segmentation](/pdf/CV1.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/CV1.pdf)
+[(2023) TBD: Domain shifts in Machine Learning](/pdf/CV1.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[(2022) XIRIS_DAT: Binary Image File reader](/pdf/CV1.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[(2022) ALSIM: Active Learning SIMulator](/pdf/CV1.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[(2021) AWUS: Adaptive Weighted Uncertainty Sampling](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[(2020) ALGOVIZ: AlGOrithms VIZualizations](/pdf/CV1.pdf)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[(2019) TREC: Threaded Video Player and Recorder](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+## Others
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -57,9 +70,6 @@ Have fun!
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
