@@ -10,6 +10,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Semi-Supervised Video Object Segmentation. 
   <br><br>
   <a href="https://www.linkedin.com/in/gijsvanhoutum/">View My LinkedIn Profile</a> 
+  <br><br>
   <a href="/pdf/CV1.pdf">View My Curriclum Vitae</a> 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
