@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Currently developing data-efficient deep learning solutions, such as Active learning and Adaptive 
   Semi-Supervised Video Object Segmentation. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/gijsvanhoutum/">View My LinkedIn Profile</a> 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
