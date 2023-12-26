@@ -20,7 +20,7 @@ awesome solutions that require less data to be annotated, and adaptive machine l
 
 In my spare time I love to write software, restore old motorcycles and cars with my dad, sail the seas. During holidays I like to explore, hike and ski.
 Examples of personal project include the creation of a electronic fuel injected (EFI) Puch moped and an algorithmic trading engine for long term investing.
-<a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+# <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
