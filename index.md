@@ -6,19 +6,30 @@ I am Gijs van Houtum, a passionate computer vision software engineer/applied sci
 I love to write software, develop new algorithms, create awesome machine learning solutions but above all, 
 I like to make stuff work. 
 
-My work for last couple of years has been focused towards creating smart deep learning based 
-computer vision algorithms for the manufacturing industry. Quality monitoring has been the main task of these algorithms I built.
-The main goal is to help and push the manufacturing industry to Industry 5.0 eventually, using these smart solutions! In the
-last 7 years I have helped over 5 different companies with newly developed computer vision solutions.
+In the last 7+ years I have helped over 5 different companies with newly developed computer vision solutions.
+My work has predominately been focused towards creating smart deep learning based computer vision algorithms 
+for the manufacturing industry. Quality monitoring has been the main task of these algorithms I built.
+The main goal is to help and push the manufacturing industry to Industry 5.0 eventually, using these smart solutions! 
 
-I am also pursueing a PhD in industrial AI (finished Jan-2024). During my work, I noticed the demand for smart solutions based on 
-machine learning with the manufacturing industry. Recurring problems from company to company created a personal vision and interest in 
-the creation of data-efficient machine learning solutions. Practical experience with AI has taught me the importance of qualitative datasets
-used for training as well as validation. Creating them is however time consuming, difficult and expensive. My PhD is therefore focused on creating
-awesome solutions that require less data to be annotated, and adaptive machine learning models, that are task invariant, just as we humans do...
+I am also pursueing a PhD in industrial AI (finished Jan-2024). During my work, I noticed the demand for smart 
+solutions based on machine learning within the manufacturing industry, and specifically the Metal Additive Manufacturing 
+Industry. Recurring problems from company to company created a personal vision and interest in the creation of 
+data-efficient machine learning solutions. Practical experience with AI has taught me the importance of qualitative datasets
+used for training as well as validation. Creating them is however time consuming, difficult and expensive. My PhD is 
+therefore focused on creating awesome solutions that require less data to be annotated, and adaptive machine learning models, 
+that are task invariant.
 
-In my spare time I love to write software, restore old motorcycles and cars with my dad, sail the seas. During holidays I like to explore, hike and ski.
-Examples of personal project include the creation of a electronic fuel injected (EFI) Puch moped and an algorithmic trading engine for long term investing.
+In my spare time I love to write software and restore old motorcycles/cars with my dad. 
+During holidays I like to explore, hike, ski or sail the seas.
+
+Some of my projects are listed below! Please take a look at them. Some include code, which is hosted on Github, others are
+not. All code related to work is confidential, therefore I am not able to share any of that. 
+
+Have fun!
+
+Best regards,
+
+Gijs van Houtum
 
 ## Portfolio
 
