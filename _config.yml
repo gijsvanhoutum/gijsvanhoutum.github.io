@@ -2,7 +2,7 @@ title: Gijs van Houutum # your name (or website title) here
 logo: "/images/dolomite.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
-  - Computer vision software engineer/applied scientist. 
+  - Computer vision software engineer/applied scientist. <br>
   - 7 years experience with development of computer vision algorithms for the manufacturing industry.
   - Passionate about software, algorithms, computer vision, active learning and adaptive deep learning.
 
