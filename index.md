@@ -24,8 +24,10 @@ that are task invariant.
 In my spare time I love to write software and restore old motorcycles/cars with my dad. 
 During holidays I like to explore, hike, ski or sail the seas.
 
-Some of my projects are listed below! Please take a look at them. Some include code, which is hosted on Github, others are
-not. All code related to work is confidential, therefore I am not able to share any of that. 
+Some of my public projects are listed below! Please take a look at them. Some include code, 
+which is hosted on Github, others are not. All code related to work is confidential, 
+therefore I am not able to share any of that. None of these projects are forked,
+so only orignal stuff!
 
 Have fun!
 
@@ -44,7 +46,7 @@ Have fun!
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[(2022) ALSIM: Active Learning SIMulator](/pdf/CV1.pdf)
+[(2022) ALSIM: Active Learning Simulator](/pdf/CV1.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -52,7 +54,7 @@ Have fun!
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[(2020) ALGOVIZ: AlGOrithms VIZualizations](/pdf/CV1.pdf)
+[(2020) ALGOVIZ: Real-time Algorithm Visualizations](/pdf/CV1.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -60,16 +62,16 @@ Have fun!
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-## Others
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[(2019) MPORT: Modern Portfolio Theory at Scale](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[(2019) CAMCAL: Self-supervised Camera calibration](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[(2018) TBD: Line Laser Deposition Measurment](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
