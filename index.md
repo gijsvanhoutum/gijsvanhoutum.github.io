@@ -1,5 +1,7 @@
 ## About me
 
+---
+
 Hi there!
 
 I am Gijs van Houtum, a passionate computer vision software engineer/applied scientist. 
@@ -26,10 +28,6 @@ Some of my projects are listed below! Please take a look at them. Some include c
 not. All code related to work is confidential, therefore I am not able to share any of that. 
 
 Have fun!
-
-Best regards,
-
-Gijs van Houtum
 
 ## Portfolio
 
