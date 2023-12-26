@@ -58,7 +58,7 @@ Have fun!
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[(2019) TREC: Threaded Video Player and Recorder](http://example.com/)
+[(2019) TREC: Threaded Video Player and Recorder](https://gijsvanhoutum.github.io/trec/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
