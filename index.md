@@ -59,6 +59,9 @@ Have fun!
 
 ---
 [(2019) TREC: Threaded Video Player and Recorder](https://github.com/gijsvanhoutum/trec)
+
+TREC is a GUI application for video recording and playing. This application is especially interesting for new camera devices if they are supported by Video4Linux.
+
 ![Screenshot of TREC example](https://github.com/gijsvanhoutum/trec/blob/master/icons/screenshot.png)
 
 ---
