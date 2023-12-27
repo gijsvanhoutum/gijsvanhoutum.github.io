@@ -13,7 +13,7 @@ My work has predominately been focused towards creating smart deep learning base
 for the manufacturing industry. Quality monitoring has been the main task of these algorithms I built.
 The main goal is to help and push the manufacturing industry to Industry 5.0 eventually, using these smart solutions! 
 
-I am also pursueing a PhD in industrial AI (finished Jan-2024). During my work, I noticed the demand for smart 
+I am also pursueing a PhD in industrial AI (finished Mar-2024). During my work, I noticed the demand for smart 
 solutions based on machine learning within the manufacturing industry, and specifically the Metal Additive Manufacturing 
 Industry. Recurring problems from company to company created a personal vision and interest in the creation of 
 data-efficient machine learning solutions. Practical experience with AI has taught me the importance of qualitative datasets
@@ -54,11 +54,11 @@ Have fun!
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[(2020) ALGOVIZ: Real-time Algorithm Visualizations](/pdf/CV1.pdf)
+[(2020) ALGOVIZ: Real-time Algorithm Visualizations](https://github.com/gijsvanhoutum/algoviz)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[(2019) TREC: Threaded Video Player and Recorder](https://gijsvanhoutum.github.io/trec/)
+[(2019) TREC: Threaded Video Player and Recorder](https://github.com/gijsvanhoutum/trec)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
