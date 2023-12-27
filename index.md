@@ -62,7 +62,7 @@ Have fun!
 
 TREC is a GUI application for video recording and playing. This application is especially interesting for new camera devices if they are supported by Video4Linux.
 
-<img src="https://github.com/gijsvanhoutum/trec/blob/master/icons/screenshot.png"  style="max-width: 50%;"/>
+<img src="https://github.com/gijsvanhoutum/trec/blob/master/icons/screenshot.png?raw=true">
 
 ---
 [(2019) MPORT: Modern Portfolio Theory at Scale](http://example.com/)
