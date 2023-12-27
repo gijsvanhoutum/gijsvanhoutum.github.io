@@ -59,7 +59,7 @@ Have fun!
 
 ---
 [(2019) TREC: Threaded Video Player and Recorder](https://github.com/gijsvanhoutum/trec)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="https://github.com/gijsvanhoutum/trec/icons/screenshot.png?raw=true"/>
 
 ---
 [(2019) MPORT: Modern Portfolio Theory at Scale](http://example.com/)
