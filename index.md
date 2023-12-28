@@ -48,9 +48,9 @@ Have fun!
 camera's. 
 
 <p align="center">
-  <img alt="Light" src="https://github.com/gijsvanhoutum/xiris_dat/blob/master/icons/xiris_camera.jpg?raw=true" width="34%">
+  <img alt="Light" src="https://github.com/gijsvanhoutum/xiris_dat/blob/master/icons/xiris_camera.jpg?raw=true" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/gijsvanhoutum/xiris_dat/blob/master/icons/DAT_image_format_XVC1000.png?raw=true" width="60%">
+  <img alt="Dark" src="https://github.com/gijsvanhoutum/xiris_dat/blob/master/icons/DAT_image_format_XVC1000.png?raw=true" width="45%">
 </p>
 
 ---
