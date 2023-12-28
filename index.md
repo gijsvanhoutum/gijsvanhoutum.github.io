@@ -42,8 +42,16 @@ Have fun!
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[(2022) XIRIS_DAT: Binary Image File reader](/pdf/CV1.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[(2022) XIRIS_DAT: Binary Image File reader](https://github.com/gijsvanhoutum/xiris_dat)
+
+**XIRIS_DAT** is a small C library for reading binary files created by Xiris
+camera's. 
+
+<p align="center">
+  <img alt="Light" src="https://github.com/gijsvanhoutum/xiris_dat/blob/master/icons/xiris_camera.jpg?raw=true" width="34%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/gijsvanhoutum/xiris_dat/blob/master/icons/DAT_image_format_XVC1000.png?raw=true" width="60%">
+</p>
 
 ---
 [(2022) ALSIM: Active Learning Simulator](/pdf/CV1.pdf)
@@ -60,7 +68,7 @@ Have fun!
 ---
 [(2019) TREC: Threaded Video Player and Recorder](https://github.com/gijsvanhoutum/trec)
 
-TREC is a GUI application for video recording and playing. This application is especially interesting for new camera devices if they are supported by Video4Linux.
+**TREC** is a GUI application for video recording and playing. This application is especially interesting for new camera devices if they are supported by Video4Linux.
 
 <p align="center">
   <img alt="Light" src="https://github.com/gijsvanhoutum/trec/blob/master/icons/screenshot_player.png?raw=true" width="45%">
