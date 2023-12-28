@@ -1,7 +1,7 @@
 
 ## About Me
 
-Click [here](/README)
+Click [here](README)
 to learn more about me!
 
 <p align="center">
