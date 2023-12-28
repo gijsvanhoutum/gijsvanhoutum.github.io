@@ -1,7 +1,7 @@
 
 ## About Me
 
-Click [here](https://github.com/gijsvanhoutum/gijsvanhoutum.github.io/blob/master/README.md)
+Click [here](gijsvanhoutum.github.io/README)
 to learn more about me!
 
 <p align="center">
