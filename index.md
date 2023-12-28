@@ -1,10 +1,7 @@
 
 ## About Me
 
-<<<<<<< HEAD
 Click [here](https://github.com/gijsvanhoutum/gijsvanhoutum.github.io/blob/master/README) to learn more about me!
-=======
-Click [here](README)
 to learn more about me!
 >>>>>>> 6b4dde5aa1f8478f2ba43704eeb6a655dd531076
 
