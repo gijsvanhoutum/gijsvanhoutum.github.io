@@ -94,13 +94,18 @@ all parts I created myself.
   <img alt="Dark" src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/icons/algo.png?raw=true" width="35%">
 </p>
 
-Two standalone GUI applications were created than can be used for any type of computer vision project.
-**TREC** was used for recording while **ALAN** was used to create the algorithms.
+During this specific project there was a need for a fast video recording application that could talk with the
+DinoLite Edge camera. Since I could not find one, I decided to write one myself, **TREC**. It is often hard to 
+see what computer vision algorithms do when you change certain parameters. I therefore created another 
+application named **ALAN** that could visualize and run camera footage alongside different 
+computer vision algorithms in real-time as well as use pre-recorded videos. 
 
 ---
 [TREC: Threaded Video Player and Recorder](https://github.com/gijsvanhoutum/trec)
 
-**TREC** is a GUI application for video recording and playing. This application is especially interesting for new camera devices if they are supported by Video4Linux.
+**TREC** is a GUI application for video recording and playing. This application is especially 
+interesting for new camera devices if they are supported by Video4Linux, including devices as
+DinoLite Edge.
 
 <p align="center">
   <img alt="Light" src="https://github.com/gijsvanhoutum/trec/blob/master/icons/screenshot_player.png?raw=true" width="45%">
