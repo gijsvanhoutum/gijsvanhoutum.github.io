@@ -5,8 +5,8 @@
 Hi there!
 
 I am Gijs van Houtum, a passionate computer vision software engineer/applied scientist. 
-I love to write software, develop new algorithms, create awesome machine learning solutions but above all, 
-I like to make stuff work. 
+I love to write software, develop new algorithms and create awesome machine learning solutions. 
+Above all, I just love to make stuff work!
 
 In the last 7+ years I have helped over 5 different companies with newly developed computer vision solutions.
 My work has predominately been focused towards creating smart deep learning based computer vision algorithms 
