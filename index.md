@@ -1,8 +1,7 @@
 
 ## About Me
 
-Click [here](/README)
-to learn more about me!
+Click [here](https://github.com/gijsvanhoutum/gijsvanhoutum.github.io/blob/master/README) to learn more about me!
 
 <p align="center">
   <img alt="Light" src="images/skiing_solden.jpg" width="45%">
