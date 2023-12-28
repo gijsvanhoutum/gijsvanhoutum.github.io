@@ -78,9 +78,6 @@ camera's.
 
 ### (2016) Vision-based Deposition Geometry Detection
 
-<iframe src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/README.md" seamless></iframe>
-
-
 Using a camera and a line laser to detect the geometry of 3D printing deposition
 geometries. In a period of 3.5 Months I created computer vision software, algorithms and a
 [report](https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/report/0872274-VisionBasedDepositionGeometryDetection.pdf). 
