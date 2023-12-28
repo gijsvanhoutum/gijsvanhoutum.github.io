@@ -35,12 +35,7 @@
 [VBGT: Vision-based Deposition Geometry Detection](https://github.com/gijsvanhoutum/vbgt)
 
 <p align="center">
-  <img alt="Light" src="https://github.com/gijsvanhoutum/vbgt/blob/master/icons/setup.png?raw=true" width="45%">
   <img alt="Dark" src="https://github.com/gijsvanhoutum/vbgt/blob/master/icons/dinolite.png?raw=true" width="45%">
-</p>
-
-<p align="center">
-  <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/icons/line.png?raw=true" width="55%">
   <img alt="Dark" src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/icons/algo.png?raw=true" width="35%">
 </p>
 
