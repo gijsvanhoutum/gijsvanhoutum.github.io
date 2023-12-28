@@ -96,14 +96,7 @@ all parts I created myself.
 
 During this specific project there was a need for a fast video recording application that could talk with the
 DinoLite Edge camera. Since I could not find one, I decided to write one myself, [TREC: Threaded Video Player and Recorder](https://github.com/gijsvanhoutum/trec). 
-It is often hard to see what computer vision algorithms do when you change certain parameters. I therefore created another 
-application named [ALAN: Algorithm Analyzer](https://github.com/gijsvanhoutum/alan) that could visualize and run camera footage alongside different 
-computer vision algorithms in real-time as well as use pre-recorded videos. 
-
----
-[TREC: Threaded Video Player and Recorder](https://github.com/gijsvanhoutum/trec)
-
-**TREC** is a GUI application for video recording and playing. This application is especially 
+TREC is a GUI application for video recording and playing. This application is especially 
 interesting for new camera devices if they are supported by Video4Linux, including devices as
 DinoLite Edge.
 
@@ -113,8 +106,10 @@ DinoLite Edge.
   <img alt="Dark" src="https://github.com/gijsvanhoutum/trec/blob/master/icons/screenshot_recorder.png?raw=true" width="45%">
 </p>
 
----
-[ALAN: Algorithm Analyzer](https://github.com/gijsvanhoutum/alan)
+It is often hard to see what computer vision algorithms do when you change certain parameters. I therefore created another 
+application named [ALAN: Algorithm Analyzer](https://github.com/gijsvanhoutum/alan) that could visualize and run camera footage alongside different 
+computer vision algorithms in real-time as well as use pre-recorded videos. 
+
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
