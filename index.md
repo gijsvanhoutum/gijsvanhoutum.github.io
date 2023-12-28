@@ -76,7 +76,7 @@ camera's.
 ---
 ---
 
-[(2016) Vision-based Deposition Geometry Detection](2016_vbgt.md)
+[Vision-based Deposition Geometry Detection](2016_vbgt.md)
 
 <p align="center">
   <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/icons/setup.png?raw=true" width="45%">
