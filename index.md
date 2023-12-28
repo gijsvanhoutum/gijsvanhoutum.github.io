@@ -1,7 +1,7 @@
 
 ## About Me
 
-Click [here](https://gijsvanhoutum.github.io/README) to learn more about me!
+Click [here](/README) to learn more about me!
 
 <p align="center">
   <img alt="Light" src="images/skiing_solden.jpg" width="45%">
@@ -38,8 +38,6 @@ so only orignal stuff!
 ---
 [(2020) CAMCAL: Self-supervised Camera calibration](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-
 
 ---
 [XIRIS_DAT: Binary Image File reader](https://github.com/gijsvanhoutum/xiris_dat)
