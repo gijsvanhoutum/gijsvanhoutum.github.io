@@ -1,5 +1,8 @@
 
-## [About me](README.md)
+## About Me
+
+Click [here](https://github.com/gijsvanhoutum/gijsvanhoutum.github.io/blob/master/README.md)
+to learn more about me!
 
 <p align="center">
   <img alt="Light" src="images/skiing_solden.jpg" width="45%">
