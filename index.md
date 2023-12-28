@@ -85,13 +85,13 @@ In a period of 3.5 Months I created computer vision software, algorithms and a
 [**report**](https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/report/0872274-VisionBasedDepositionGeometryDetection.pdf). 
 
 <p align="center">
-  <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/setup.png" width="45%">
-  <img alt="Dark" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/dinolite.png" width="45%">
+  <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/setup.png?raw=true" width="45%">
+  <img alt="Dark" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/dinolite.png?raw=true" width="45%">
 </p>
 
 <p align="center">
-  <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/line.png" width="55%">
-  <img alt="Dark" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/algo.png" width="35%">
+  <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/line.png?raw=true" width="55%">
+  <img alt="Dark" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/algo.png?raw=true" width="35%">
 </p>
 
 Two standalone GUI applications were created than can be used for any type of computer vision project.
