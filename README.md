@@ -47,7 +47,7 @@ I have been restoring for the last 10 years.
 Also, in the past I have been working on DIY electronic fuel injections systems. They are common on 
 cars, but not on mopeds. So lets make it happen! I took an old Austrian Puch Maxi and started the
 conversion... Hardware, Electronics, Software. It is all there! Check out some very
-old Youtube videos with the lower resolution video you have ever seen!
+old Youtube videos with the lowest resolution video you have ever seen!
 
 [EFI Puch Maxi](https://www.youtube.com/@TheYamahaxt500)
 
