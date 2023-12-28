@@ -1,37 +1,13 @@
-## About me
 
----
+## [About me](/README.md)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-Hi there!
-
-I am Gijs van Houtum, a passionate computer vision software engineer/applied scientist. 
-I love to write software, develop new algorithms and create awesome machine learning solutions. 
-Above all, I just love to make stuff work!
-
-In the last 7+ years I have helped over 5 different companies with newly developed computer vision solutions.
-My work has predominately been focused towards creating smart deep learning based computer vision algorithms 
-for the manufacturing industry. Quality monitoring has been the main task of these algorithms I built.
-The main goal is to help and push the manufacturing industry to Industry 5.0 eventually, using these smart solutions! 
-
-I am also pursueing a PhD in industrial AI (finished Mar-2024). During my work, I noticed the demand for smart 
-solutions based on machine learning within the manufacturing industry, and specifically the Metal Additive Manufacturing 
-Industry. Recurring problems from company to company created a personal vision and interest in the creation of 
-data-efficient machine learning solutions. Practical experience with AI has taught me the importance of qualitative datasets
-used for training as well as validation. Creating them is however time consuming, difficult and expensive. My PhD is 
-therefore focused on creating awesome solutions that require less data to be annotated, and adaptive machine learning models, 
-that are task invariant.
-
-In my spare time I love to write software and restore old motorcycles/cars with my dad. 
-During holidays I like to explore, hike, ski or sail the seas.
+## Software Projects
 
 Some of my public projects are listed below! Please take a look at them. Some include code, 
 which is hosted on Github, others are not. All code related to work is confidential, 
 therefore I am not able to share any of that. None of these projects are forked,
 so only orignal stuff!
-
-Have fun!
-
-## Software Projects
 
 ---
 [(2023) TBD: Semi-Supervised Video Object Segmentation](/pdf/CV1.pdf)
@@ -57,9 +33,7 @@ Have fun!
 [(2020) CAMCAL: Self-supervised Camera calibration](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[(2020) ALGOVIZ: Real-time Algorithm Visualizations](https://github.com/gijsvanhoutum/algoviz)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [XIRIS_DAT: Binary Image File reader](https://github.com/gijsvanhoutum/xiris_dat)
@@ -80,6 +54,14 @@ Have fun!
 <p align="center">
   <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/icons/line.png?raw=true" width="55%">
   <img alt="Dark" src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/icons/algo.png?raw=true" width="35%">
+</p>
+
+---
+[ALAN: Algorithm Analyzer](https://github.com/gijsvanhoutum/alan)
+
+<p align="center">
+  <img alt="Light" src="https://github.com/gijsvanhoutum/trec/blob/master/icons/screenshot_player.png?raw=true" width="45%">
+  <img alt="Dark" src="https://github.com/gijsvanhoutum/trec/blob/master/icons/screenshot_recorder.png?raw=true" width="45%">
 </p>
 
 ---
