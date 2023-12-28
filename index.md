@@ -82,16 +82,16 @@ Using a camera and a line laser to detect the geometry of 3D printing deposition
 geometries. 
 
 In a period of 3.5 Months I created computer vision software, algorithms and a
-[**report**](/report/0872274-VisionBasedDepositionGeometryDetection.pdf). 
+[**report**](https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/report/0872274-VisionBasedDepositionGeometryDetection.pdf). 
 
 <p align="center">
-  <img alt="Light" src="icons/setup.png" width="45%">
-  <img alt="Dark" src="icons/dinolite.png" width="45%">
+  <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/setup.png" width="45%">
+  <img alt="Dark" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/dinolite.png" width="45%">
 </p>
 
 <p align="center">
-  <img alt="Light" src="icons/line.png" width="55%">
-  <img alt="Dark" src="icons/algo.png" width="35%">
+  <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/line.png" width="55%">
+  <img alt="Dark" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/algo.png" width="35%">
 </p>
 
 Two standalone GUI applications were created than can be used for any type of computer vision project.
