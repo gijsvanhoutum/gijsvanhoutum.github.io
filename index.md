@@ -76,14 +76,26 @@ camera's.
 ---
 ---
 
-### (2016) Masters Internship Projects
+### (2016) Vision-based Deposition Geometry Detection
 
-In a period of 3.5 Months I created the following software and computer vision
-algorithms for my Masters Internship. You can read the report [here](/pdf/0872274-VisionBasedDepositionGeometryDetection.pdf). 
+Using a camera and a line laser to detect the geometry of 3D printing deposition
+geometries. 
 
+In a period of 3.5 Months I created computer vision software, algorithms and a
+[**report**](/report/0872274-VisionBasedDepositionGeometryDetection.pdf). 
+
+<p align="center">
+  <img alt="Light" src="icons/setup.png" width="45%">
+  <img alt="Dark" src="icons/dinolite.png" width="45%">
+</p>
+
+<p align="center">
+  <img alt="Light" src="icons/line.png" width="55%">
+  <img alt="Dark" src="icons/algo.png" width="35%">
+</p>
+
+Two standalone GUI applications were created than can be used for any type of computer vision project.
 **TREC** was used for recording while **ALAN** was used to create the algorithms.
-They are however standalone solutions than can be used for any type of computer
-vision project.
 
 ---
 [TREC: Threaded Video Player and Recorder](https://github.com/gijsvanhoutum/trec)
