@@ -81,6 +81,8 @@ camera's.
 Using a camera and a line laser to detect the geometry of 3D printing deposition
 geometries. In a period of 3.5 Months I created computer vision software, algorithms and a
 [report](https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/report/0872274-VisionBasedDepositionGeometryDetection.pdf). 
+Hardware selection (Camera,Line Laser), CAD bracket modelling and 3D printing as well as experiments were 
+all parts I created myself. 
 
 <p align="center">
   <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/icons/setup.png?raw=true" width="45%">
