@@ -1,6 +1,10 @@
 
 ## [About me](/README.md)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<p align="center">
+  <img alt="Light" src="images/skiing_solden.jpg" width="45%">
+  <img alt="Dark" src="images/sailing_northsea.jpg" width="45%">
+</p>
 
 ## Software Projects
 
