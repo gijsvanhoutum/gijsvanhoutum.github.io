@@ -10,7 +10,7 @@ Click [here](/ABOUT) to learn more about me!
 
 ## Projects
 
-Click [here](/PROJECTS) to learn more about some of my personal projects! 
+Click [here](/PROJECTS) to learn more about some of my projects! 
 Some include code, which is hosted on Github, others are not. All code related to work is confidential, 
 therefore I am not able to share any of that. None of these projects are forked,
 so only orignal stuff!
