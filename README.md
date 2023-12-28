@@ -2,7 +2,7 @@
 
 This is my personal portfolio website hosted at 
 
-[Github Pages Website](https://gijsvanhoutum.github.io/)
+[https://gijsvanhoutum.github.io/](https://gijsvanhoutum.github.io/)
 
 ### Installation
 
