@@ -42,10 +42,7 @@
 ---
 [ALAN: Algorithm Analyzer](https://github.com/gijsvanhoutum/alan)
 
-<p align="center">
-  <img alt="Light" src="https://github.com/gijsvanhoutum/trec/blob/master/icons/screenshot_player.png?raw=true" width="45%">
-  <img alt="Dark" src="https://github.com/gijsvanhoutum/trec/blob/master/icons/screenshot_recorder.png?raw=true" width="45%">
-</p>
+<img src="https://github.com/gijsvanhoutum/alan/blob/master/icons/screenshot.png?raw=true">
 
 ---
 [TREC: Threaded Video Player and Recorder](https://github.com/gijsvanhoutum/trec)
