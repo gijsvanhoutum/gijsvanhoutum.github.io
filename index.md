@@ -41,8 +41,6 @@ Have fun!
 [(2023) TBD: Domain shifts in Machine Learning](/pdf/CV1.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-
-
 ---
 [(2022) ALSIM: Active Learning Simulator](/pdf/CV1.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -62,8 +60,6 @@ Have fun!
 ---
 [(2020) ALGOVIZ: Real-time Algorithm Visualizations](https://github.com/gijsvanhoutum/algoviz)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ---
 [XIRIS_DAT: Binary Image File reader](https://github.com/gijsvanhoutum/xiris_dat)
