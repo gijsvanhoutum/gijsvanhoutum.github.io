@@ -78,6 +78,9 @@ camera's.
 
 ### (2016) Vision-based Deposition Geometry Detection
 
+<iframe src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/README.md" seamless></iframe>
+
+
 Using a camera and a line laser to detect the geometry of 3D printing deposition
 geometries. In a period of 3.5 Months I created computer vision software, algorithms and a
 [report](https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/report/0872274-VisionBasedDepositionGeometryDetection.pdf). 
@@ -95,9 +98,9 @@ all parts I created myself.
 </p>
 
 During this specific project there was a need for a fast video recording application that could talk with the
-DinoLite Edge camera. Since I could not find one, I decided to write one myself, **TREC**. It is often hard to 
-see what computer vision algorithms do when you change certain parameters. I therefore created another 
-application named **ALAN** that could visualize and run camera footage alongside different 
+DinoLite Edge camera. Since I could not find one, I decided to write one myself, [TREC: Threaded Video Player and Recorder](https://github.com/gijsvanhoutum/trec). 
+It is often hard to see what computer vision algorithms do when you change certain parameters. I therefore created another 
+application named [ALAN: Algorithm Analyzer](https://github.com/gijsvanhoutum/alan) that could visualize and run camera footage alongside different 
 computer vision algorithms in real-time as well as use pre-recorded videos. 
 
 ---
@@ -114,7 +117,7 @@ DinoLite Edge.
 </p>
 
 ---
-[ALAN: Algorithm Analyzer](https://github.com/gijsvanhoutum/algoviz)
+[ALAN: Algorithm Analyzer](https://github.com/gijsvanhoutum/alan)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
