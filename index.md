@@ -41,17 +41,7 @@ Have fun!
 [(2023) TBD: Domain shifts in Machine Learning](/pdf/CV1.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[(2022) XIRIS_DAT: Binary Image File reader](https://github.com/gijsvanhoutum/xiris_dat)
 
-**XIRIS_DAT** is a small C library for reading binary files created by Xiris
-camera's. 
-
-<p align="center">
-  <img alt="Light" src="https://github.com/gijsvanhoutum/xiris_dat/blob/master/icons/xiris_camera.jpg?raw=true" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/gijsvanhoutum/xiris_dat/blob/master/icons/DAT_image_format_XVC1000.png?raw=true" width="45%">
-</p>
 
 ---
 [(2022) ALSIM: Active Learning Simulator](/pdf/CV1.pdf)
@@ -62,11 +52,39 @@ camera's.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[(2020) MPORT: Modern Portfolio Theory at Scale](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[(2020) CAMCAL: Self-supervised Camera calibration](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
 [(2020) ALGOVIZ: Real-time Algorithm Visualizations](https://github.com/gijsvanhoutum/algoviz)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[(2019) TREC: Threaded Video Player and Recorder](https://github.com/gijsvanhoutum/trec)
+
+---
+[XIRIS_DAT: Binary Image File reader](https://github.com/gijsvanhoutum/xiris_dat)
+
+**XIRIS_DAT** is a small C library for reading binary files created by Xiris
+camera's. 
+
+<p align="center">
+  <img alt="Light" src="https://github.com/gijsvanhoutum/xiris_dat/blob/master/icons/xiris_camera.jpg?raw=true" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/gijsvanhoutum/xiris_dat/blob/master/icons/DAT_image_format_XVC1000.png?raw=true" width="45%">
+</p>
+
+### (2016) Masters Internship Projects
+
+In a period of 3.5 Months I created the following software and algorithms for 
+my Masters Internship Report. You can read it [here](/pdf/0872274-VisionBasedDepositionGeometryDetection.pdf). **TREC**
+was used for recording while **ALAN** was used to create the algorithms.
+
+
+[TREC: Threaded Video Player and Recorder](https://github.com/gijsvanhoutum/trec)
 
 **TREC** is a GUI application for video recording and playing. This application is especially interesting for new camera devices if they are supported by Video4Linux.
 
@@ -77,15 +95,7 @@ camera's.
 </p>
 
 ---
-[(2019) MPORT: Modern Portfolio Theory at Scale](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[(2019) CAMCAL: Self-supervised Camera calibration](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[(2018) TBD: Line Laser Deposition Measurment](http://example.com/)
+[ALAN: Algorithm Analyzer](https://github.com/gijsvanhoutum/algoviz)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
