@@ -76,7 +76,7 @@ camera's.
 ---
 ---
 
-[Vision-based Deposition Geometry Detection](2016_vbgt.md)
+[Vision-based Deposition Geometry Detection](https://github.com/gijsvanhoutum/vbgt)
 
 <p align="center">
   <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/icons/setup.png?raw=true" width="45%">
@@ -87,7 +87,3 @@ camera's.
   <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/icons/line.png?raw=true" width="55%">
   <img alt="Dark" src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/icons/algo.png?raw=true" width="35%">
 </p>
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
