@@ -1,4 +1,4 @@
-## Portfolio
+# About me
 
 Hi there! Welcome to my personal webpage at [https://gijsvanhoutum.github.io/](https://gijsvanhoutum.github.io/)
 
