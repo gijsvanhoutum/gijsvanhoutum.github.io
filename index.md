@@ -77,13 +77,19 @@ camera's.
   <img alt="Dark" src="https://github.com/gijsvanhoutum/xiris_dat/blob/master/icons/DAT_image_format_XVC1000.png?raw=true" width="45%">
 </p>
 
+---
+---
+
 ### (2016) Masters Internship Projects
 
-In a period of 3.5 Months I created the following software and algorithms for 
-my Masters Internship Report. You can read it [here](/pdf/0872274-VisionBasedDepositionGeometryDetection.pdf). **TREC**
-was used for recording while **ALAN** was used to create the algorithms.
+In a period of 3.5 Months I created the following software and computer vision
+algorithms for my Masters Internship. You can read the report [here](/pdf/0872274-VisionBasedDepositionGeometryDetection.pdf). 
 
+**TREC** was used for recording while **ALAN** was used to create the algorithms.
+They are however standalone solutions than can be used for any type of computer
+vision project.
 
+---
 [TREC: Threaded Video Player and Recorder](https://github.com/gijsvanhoutum/trec)
 
 **TREC** is a GUI application for video recording and playing. This application is especially interesting for new camera devices if they are supported by Video4Linux.
