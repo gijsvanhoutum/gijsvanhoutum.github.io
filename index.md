@@ -1,5 +1,5 @@
 
-## [About me](/README.md)
+## [About me](README.md)
 
 <p align="center">
   <img alt="Light" src="images/skiing_solden.jpg" width="45%">
