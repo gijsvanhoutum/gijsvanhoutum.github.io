@@ -64,9 +64,6 @@ Have fun!
 ---
 [XIRIS_DAT: Binary Image File reader](https://github.com/gijsvanhoutum/xiris_dat)
 
-**XIRIS_DAT** is a small C library for reading binary files created by Xiris
-camera's. 
-
 <p align="center">
   <img alt="Light" src="https://github.com/gijsvanhoutum/xiris_dat/blob/master/icons/xiris_camera.jpg?raw=true" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
@@ -74,16 +71,23 @@ camera's.
 </p>
 
 ---
----
-
-[Vision-based Deposition Geometry Detection](https://github.com/gijsvanhoutum/vbgt)
+[VBGT: Vision-based Deposition Geometry Detection](https://github.com/gijsvanhoutum/vbgt)
 
 <p align="center">
-  <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/icons/setup.png?raw=true" width="45%">
-  <img alt="Dark" src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/icons/dinolite.png?raw=true" width="45%">
+  <img alt="Light" src="https://github.com/gijsvanhoutum/vbgt/blob/master/icons/setup.png?raw=true" width="45%">
+  <img alt="Dark" src="https://github.com/gijsvanhoutum/vbgt/blob/master/icons/dinolite.png?raw=true" width="45%">
 </p>
 
 <p align="center">
   <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/icons/line.png?raw=true" width="55%">
   <img alt="Dark" src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/icons/algo.png?raw=true" width="35%">
+</p>
+
+---
+[TREC: Threaded Video Player and Recorder](https://github.com/gijsvanhoutum/trec)
+
+<p align="center">
+  <img alt="Light" src="https://github.com/gijsvanhoutum/trec/blob/master/icons/screenshot_player.png?raw=true" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Dark" src="https://github.com/gijsvanhoutum/trec/blob/master/icons/screenshot_recorder.png?raw=true" width="45%">
 </p>
