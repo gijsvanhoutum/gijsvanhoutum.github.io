@@ -80,10 +80,9 @@ camera's.
 
 Using a camera and a line laser to detect the geometry of 3D printing deposition
 geometries. In a period of 3.5 Months I created computer vision software, algorithms and a
-[report](https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/report/0872274-VisionBasedDepositionGeometryDetection.pdf). 
+[report](https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/report/0872274-VisionBasedDepositionGeometryDetection.pdf). 
 
 <p align="center">
-<<<<<<< HEAD
   <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/icons/setup.png?raw=true" width="45%">
   <img alt="Dark" src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/icons/dinolite.png?raw=true" width="45%">
 </p>
@@ -91,17 +90,6 @@ geometries. In a period of 3.5 Months I created computer vision software, algori
 <p align="center">
   <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/icons/line.png?raw=true" width="55%">
   <img alt="Dark" src="https://github.com/gijsvanhoutum/2016_internship_msam/blob/master/icons/algo.png?raw=true" width="35%">
-=======
-  <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/setup.png?raw=true" width="45%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/dinolite.png?raw=true" width="45%">
-</p>
-
-<p align="center">
-  <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/line.png?raw=true" width="55%">
-&nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="Dark" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/algo.png?raw=true" width="35%">
->>>>>>> f41b5052289c98aba32c36403573d632842af9cc
 </p>
 
 Two standalone GUI applications were created than can be used for any type of computer vision project.
