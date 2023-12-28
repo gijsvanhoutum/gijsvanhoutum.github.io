@@ -86,11 +86,13 @@ In a period of 3.5 Months I created computer vision software, algorithms and a
 
 <p align="center">
   <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/setup.png?raw=true" width="45%">
+&nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/dinolite.png?raw=true" width="45%">
 </p>
 
 <p align="center">
   <img alt="Light" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/line.png?raw=true" width="55%">
+&nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Dark" src="https://github.com/gijsvanhoutum/2016_internship_msam/tree/master/icons/algo.png?raw=true" width="35%">
 </p>
 
