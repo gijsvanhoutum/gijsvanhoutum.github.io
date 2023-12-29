@@ -9,8 +9,8 @@
 
 ---
 [ALSIM: Active Learning Simulator](https://github.com/gijsvanhoutum/alsim)
-<img src="https://github.com/gijsvanhoutum/alsim/blob/master/icons/active_learning.png">
-<img src="https://github.com/gijsvanhoutum/alsim/blob/master/icons/awus.png">
+<img src="https://github.com/gijsvanhoutum/alsim/blob/master/icons/active_learning.png?raw=true">
+<img src="https://github.com/gijsvanhoutum/alsim/blob/master/icons/awus.png?raw=true">
 
 ---
 [AWUS: Adaptive Weighted Uncertainty Sampling](/sample_page)
