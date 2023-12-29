@@ -1,9 +1,8 @@
 # Projects
 
-Some include code, which is hosted on Github, others are not. All code related to work is confidential, 
-therefore I am not able to share any of that. None of these projects are forked. 
+Here are some pieces of code, which is hosted on Github. None of these projects are forked. 
 Most of my work is however confidential, and related to larger computer vision projects. 
-Deep learning based solutions in Tensorflow cover most of my projects.
+Deep learning based computer vision solutions in Tensorflow cover most of my projects.
 
 [ALSIM: Active Learning Simulator](https://github.com/gijsvanhoutum/alsim)
 <img src="https://github.com/gijsvanhoutum/alsim/blob/master/icons/active_learning.png?raw=true">
