@@ -1,6 +1,6 @@
 # About me
 
-Hi there! Welcome to my personal webpage at [https://gijsvanhoutum.github.io/](https://gijsvanhoutum.github.io/)
+Hi there! Welcome to my personal webpage.
 
 I am Gijs van Houtum, a passionate computer vision software engineer/applied scientist. 
 I love to write software, develop new algorithms and create awesome machine learning solutions. 
@@ -22,7 +22,19 @@ that are task invariant.
 In my spare time I love to write software and restore old motorcycles/cars with my dad. 
 During holidays I like to explore, hike, ski or sail the seas.
 
-Some pictures of me in my natural habitat! And yes, the shark is still alive!
+Please take a look at this very old blog, that desperately needs an update, of my 1974 Triumph Dolomite Sprint.
+I have been restoring for the last 10 years with my dad. 
+
+[Dolly Sprint Page](https://forum.triumphdolomite.co.uk/viewtopic.php?t=20033)
+
+Also, in the past I have been working on DIY electronic fuel injections systems. They are common on 
+cars, but not on mopeds. So lets make it happen! My dad and I took an old Austrian Puch Maxi and started the
+conversion... Hardware, Electronics, Software. It is all there! Check out some very
+old Youtube videos with the lowest resolution video you have ever seen!
+
+[EFI Puch Maxi](https://www.youtube.com/@TheYamahaxt500)
+
+Some pictures of me in my natural habitat to end with! And yes, the shark is still alive!
 
 <p align="center">
   <img alt="Light" src="images/waterloo_cold.jpeg" width="40%">
@@ -39,14 +51,3 @@ Some pictures of me in my natural habitat! And yes, the shark is still alive!
   <img alt="Dark" src="images/shark_fishing.jpeg" width="45%">
 </p>
 
-Please see this very old blog, that desperately needs an update, of my 1974 Triumph Dolomite Sprint
-I have been restoring for the last 10 years. 
-
-[Dolly Sprint Page](https://forum.triumphdolomite.co.uk/viewtopic.php?t=20033)
-
-Also, in the past I have been working on DIY electronic fuel injections systems. They are common on 
-cars, but not on mopeds. So lets make it happen! I took an old Austrian Puch Maxi and started the
-conversion... Hardware, Electronics, Software. It is all there! Check out some very
-old Youtube videos with the lowest resolution video you have ever seen!
-
-[EFI Puch Maxi](https://www.youtube.com/@TheYamahaxt500)

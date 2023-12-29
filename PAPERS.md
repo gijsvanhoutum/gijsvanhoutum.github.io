@@ -22,5 +22,5 @@ Here are some report and papers I currently work or have worked on.
 
 <p align="center">
   <img alt="Dark" src="https://github.com/gijsvanhoutum/vbgt/blob/master/icons/dinolite.png?raw=true" width="45%">
-  <img alt="Dark" src="https://github.com/gijsvanhoutum/vbgt/blob/master/icons/algo.png?raw=true" width="35%">
+  <img alt="Dark" src="https://github.com/gijsvanhoutum/vbgt/blob/master/icons/algo.png?raw=true" width="45%">
 </p>
