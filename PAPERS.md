@@ -10,10 +10,12 @@ Here are some report and papers I currently work or have worked on.
 ---
 [AWUS: Active learning via adaptive weighted uncertainty sampling applied to additive manufacturing](https://github.com/gijsvanhoutum/awus)
 
+<img src="https://github.com/gijsvanhoutum/awus/blob/master/icons/al.jpg?raw=true">
+
 ---
 [CAMO: Calibration of Laser Triangulation based Vision Systems under Motion](https://github.com/gijsvanhoutum/camo)
 
-<img src="https://github.com/gijsvanhoutum/camo/blob/master/icons/lens_distortion.png?raw=true">
+<img src="https://github.com/gijsvanhoutum/camo/blob/master/icons/self_calibration.png?raw=true">
 
 ---
 [VBGT: Vision-based Deposition Geometry Detection](https://github.com/gijsvanhoutum/vbgt)
