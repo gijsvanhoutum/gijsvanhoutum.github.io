@@ -8,8 +8,9 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[ALSIM: Active Learning Simulator](/pdf/CV1.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[ALSIM: Active Learning Simulator](https://github.com/gijsvanhoutum/alsim)
+<img src="https://github.com/gijsvanhoutum/alsim/blob/master/icons/active_learning.png">
+<img src="https://github.com/gijsvanhoutum/alsim/blob/master/icons/awus.png">
 
 ---
 [AWUS: Adaptive Weighted Uncertainty Sampling](/sample_page)
