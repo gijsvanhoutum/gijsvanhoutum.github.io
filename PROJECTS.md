@@ -1,22 +1,18 @@
 # Projects
 
-[(2023) TBD: Semi-Supervised Video Object Segmentation](/pdf/CV1.pdf)
+[TBD: Semi-Supervised Video Object Segmentation](/pdf/CV1.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[(2023) TBD: Domain shifts in Machine Learning](/pdf/CV1.pdf)
+[TBD: Domain shifts in Machine Learning](/pdf/CV1.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[(2022) ALSIM: Active Learning Simulator](/pdf/CV1.pdf)
+[ALSIM: Active Learning Simulator](/pdf/CV1.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[(2021) AWUS: Adaptive Weighted Uncertainty Sampling](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[(2020) MPORT: Modern Portfolio Theory at Scale](http://example.com/)
+[AWUS: Adaptive Weighted Uncertainty Sampling](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
