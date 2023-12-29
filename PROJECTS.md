@@ -1,6 +1,6 @@
 # Projects
 
-[ALSIM: Active Learning Simulator + AWUS](https://github.com/gijsvanhoutum/alsim)
+[ALSIM: Active Learning Simulator](https://github.com/gijsvanhoutum/alsim)
 <img src="https://github.com/gijsvanhoutum/alsim/blob/master/icons/active_learning.png?raw=true">
 <img src="https://github.com/gijsvanhoutum/alsim/blob/master/icons/awus.png?raw=true">
 
