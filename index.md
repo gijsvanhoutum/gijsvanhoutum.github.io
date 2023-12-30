@@ -1,7 +1,16 @@
 
 ## About Me
 
-Click [here](/ABOUT) to learn more about me!
+Click [here](/ABOUT) to learn more about me! 
+
+<p align="center">
+  <img alt="Light" src="images/skiing_solden.jpg" width="45%">
+  <img alt="Dark" src="images/sailing_northsea.jpg" width="45%">
+</p>
+
+## A "little" more about me
+
+Click [here](/MORE) to learn a little more about me!
 
 <p align="center">
   <img alt="Light" src="images/skiing_solden.jpg" width="45%">

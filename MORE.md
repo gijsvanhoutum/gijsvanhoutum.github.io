@@ -1,31 +1,10 @@
-
-# Hi 1X!
-
-I have known for a while that at some point I needed to show a bit more of myself 
-in terms of personal information as well as projects on Github to the world. 
-Working and completing a PhD in my spare time has however kept me from it. 
-
-This is my new, long overdue, webpage I created in response to your opportunity. 
-This specific page is made for you and can only be accesed if you know the URL. 
-So keep that in mind when you start exploring this webpage. I hope you like it!
-
-Although there is already plenty to explore on this webpage, it is still far from
-complete as only a handfull of personal projects were added that I could find and
-brush up during this short period. Also, my best work is confidential, which is a
-bummer. I therefore try to take it to the next step on this page and provide
-more in depth information regarding my studies, work, skills and experiences. 
-
-I am very excited about the opportunity as a Senior Computer Vision Engineer at 1X. 
-Therfore I hope my efforts live up to the provided task at hand. 
-
-## A little more about me
+# A little more about me
 
 My personal page and resume cover some stuff, but not all of it. Most people 
 wonder where I live as there is a mixture of Dutch and Canadian locations 
 accross my resume. I am Dutch but have been living in Canada for most of the last
 7 years. During that time I have worked for different companies, some of which 
 were in the Netherlands. So how does this all fit together?
-
 
 It started all back in 2016 when I decided to go abroad. I ended up in Waterloo,
 Canada at the [Multi-Scale Additive Manufacturing Lab](https://msam.uwaterloo.ca/). 
@@ -41,7 +20,7 @@ between my university in the Netherlands, Eindhoven University of Technology, MS
 and a company named Xiris which develops hardware and software for their inhouse 
 HDR camera solutions for the welding industry. In the end, I delivered hardware, 
 software and the algorithm within 3 Months. Take a look at it [here](https://github.com/gijsvanhoutum/vbgt).
-I guess they liked my work, as the CEO of Xiris offered me a job, which I turned down. 
+I guess they liked my work, as they offered me a job, which I turned down. 
 
 After that internship, computer vision, and specifically deep learning based 
 computer vision, is all wanted to do. The math and education I gained during my 
@@ -60,6 +39,3 @@ is however be no means complete. You can find other curriculum courses [here](ht
 - Dynamic programming and Optimal Control
 - Model Predictive Control
 - System Theory for Control
-
-
-
