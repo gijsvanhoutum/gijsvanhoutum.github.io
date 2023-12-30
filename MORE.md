@@ -6,8 +6,8 @@ accross my resume. I am Dutch but have been living in Canada for most of the las
 7 years. During that time I have worked for different companies, some of which 
 were in the Netherlands. So how does this all fit together?
 
-It started all back in 2016 when I decided to go abroad. I ended up in Waterloo,
-Canada at the [Multi-Scale Additive Manufacturing Lab](https://msam.uwaterloo.ca/). 
+Although I had a life before they year 2016 I start there as that was the year
+I went abroad. I ended up in Waterloo, Canada at the [Multi-Scale Additive Manufacturing Lab](https://msam.uwaterloo.ca/). 
 This laboratory is one of the largest academic 3D printing facilities in the 
 world and provides access and exposure to most 3D printing technologies as well 
 as plenty of measurement machinery. Think of CT scanning, Ultrasound, Structured-light,
@@ -27,7 +27,7 @@ computer vision, is all wanted to do. The math and education I gained during my
 control theory studies proved to be a good fit for machine learning in general. 
 Since my resume does not provide any information regarding coursework I have listed 
 a couple below which were conducted during during my Master's and PhD. The list 
-is however be no means complete. You can find other curriculum courses [here](https://www.tue.nl/en/education/graduate-school/master-systems-and-control/degree-structure).
+is however by no means complete. You can find other curriculum courses [here](https://www.tue.nl/en/education/graduate-school/master-systems-and-control/degree-structure).
 - Time Series Analysis and Forecasting
 - Advanced Image Processing and Deep Learning
 - Advanced Pattern Recognition
@@ -39,3 +39,6 @@ is however be no means complete. You can find other curriculum courses [here](ht
 - Dynamic programming and Optimal Control
 - Model Predictive Control
 - System Theory for Control
+
+
+
