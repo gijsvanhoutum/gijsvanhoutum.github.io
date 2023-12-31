@@ -3,7 +3,7 @@
 
 Click [here](/ABOUT) to learn about me! Want more, [here](/MORE) is my journey  
 
-<video width="320" height="240" controls>
+<video width="320" height="240" autoplay>
   <source src="videos/4.mp4" type="video/mp4">
 </video>
 
