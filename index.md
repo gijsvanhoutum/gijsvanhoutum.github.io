@@ -3,8 +3,9 @@
 
 Click [here](/ABOUT) to learn about me! Want more, [here](/MORE) is my journey  
 
-<video width="320" height="240" autoplay>
-  <source src="videos/4.mp4" type="video/mp4">
+<video width="640" height="480" loop>
+<source src="videos/occ_test2.avi" type="video/avi">
+ Your browser does not support the video tag.
 </video>
 
 <p align="center">
