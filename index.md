@@ -1,7 +1,8 @@
 
 ## About Me
 
-Click [here](/ABOUT) to learn about me! #Want more, [here](/MORE) is my journey  
+Click [here](/ABOUT) to learn about me! 
+<!-- Want more, [here](/MORE) is my journey   -->
 <p align="center">
   <img alt="Light" src="images/skiing_solden.jpg" width="45%">
   <img alt="Dark" src="images/sailing_northsea.jpg" width="45%">
