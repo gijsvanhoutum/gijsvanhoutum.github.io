@@ -3,10 +3,11 @@
 
 Click [here](/ABOUT) to learn about me! Want more, [here](/MORE) is my journey  
 
-<video width="640" height="480" loop>
-<source src="videos/occ_test2.avi" type="video/avi">
- Your browser does not support the video tag.
-</video>
+<div align="center">
+      <a href="https://www.youtube.com/watch?v=19c1h6Nx0Eo">
+         <img src="https://img.youtube.com/vi/19c1h6Nx0Eo/0.jpg" style="width:100%;">
+      </a>
+</div>
 
 <p align="center">
   <img alt="Light" src="images/skiing_solden.jpg" width="45%">
