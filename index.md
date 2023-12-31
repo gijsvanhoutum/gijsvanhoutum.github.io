@@ -3,6 +3,10 @@
 
 Click [here](/ABOUT) to learn about me! Want more, [here](/MORE) is my journey  
 
+<video width="320" height="240" controls>
+  <source src="videos/4.mp4" type="video/mp4">
+</video>
+
 <p align="center">
   <img alt="Light" src="images/skiing_solden.jpg" width="45%">
   <img alt="Dark" src="images/sailing_northsea.jpg" width="45%">
